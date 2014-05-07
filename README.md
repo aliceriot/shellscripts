@@ -2,7 +2,7 @@
 
 ##some small scripts it might be handy to have on multiple machines:
 
-Note: this folder (~/Dropbox/shellscripts) is added to $PATH in my .bashrc
+Note: this folder (~/Code/shellscripts) is added to $PATH in my .bashrc
 
 * gmail.py:
     * this does a simple gmail unread messages notification in my dzen/conky panel

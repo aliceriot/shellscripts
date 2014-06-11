@@ -1,3 +1,3 @@
 #!/bin/bash
 
-rsync -avz $HOME /mnt/usb
+rsync -avz ~/ /mnt/usb

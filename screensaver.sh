@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-xset -dpms; xset s on
+xset dpms; xset s on

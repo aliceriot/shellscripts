@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo mount /dev/sdb1 /mnt/usb
+sudo mount /dev/sdc1 /mnt/usb

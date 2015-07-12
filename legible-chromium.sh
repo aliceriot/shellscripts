@@ -1,3 +1,3 @@
 #!/bin/sh
 
-chromium --force-device-scale-factor=1.5
+chromium --force-device-scale-factor=1.85

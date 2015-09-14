@@ -28,3 +28,5 @@ Note: this folder (~/Code/shellscripts) is added to $PATH in my .bashrc
     * powers up my bluetooth module
     * adds by bluetooth keyboard (already paired with bluetoothctl) using htitools
     * Note that keyboard needs to be on for it to connect
+
+I love shellscripts!

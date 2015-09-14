@@ -1,6 +1,6 @@
 #!/bin/sh
 
-if [ -d .git]; then
+if [ -d .git ]; then
     BRANCH=$(git rev-parse --abbrev-ref HEAD)
     echo "merging "$BRANCH" into master"
     git checkout master
@@ -15,3 +15,4 @@ if [ -d .git]; then
     git branch -D $BRANCH
 else
     echo "not in a git repo..."
+fi

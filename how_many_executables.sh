@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # how many commands: count how many executable commands
 #   are in your current PATH.
 

@@ -4,11 +4,6 @@
 
 Note: this folder (~/Code/shellscripts) is added to $PATH in my .bashrc
 
-* gmail.py:
-    * this does a simple gmail unread messages notification in my dzen/conky panel
-    * my .conkyrc expects this file to be in ~/scripts
-    * needs acct info, so copy (no symlink) file to ~/scripts and edit
-
 * hlwmexternaldesk.sh:
     * adds my external monitor as a second screen next to my laptop screen
     * uses xrandr and hlwmclient
@@ -28,3 +23,5 @@ Note: this folder (~/Code/shellscripts) is added to $PATH in my .bashrc
     * powers up my bluetooth module
     * adds by bluetooth keyboard (already paired with bluetoothctl) using htitools
     * Note that keyboard needs to be on for it to connect
+
+I love shellscripts!

@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# safely merge a feature branch and destroy it when you're done
+
 if [ -d .git ]; then
     BRANCH=$(git rev-parse --abbrev-ref HEAD)
     echo "merging "$BRANCH" into master"
@@ -7,7 +9,6 @@ if [ -d .git ]; then
     git pull origin master
     git checkout $BRANCH
     git rebase -i master
-    git commit --amend
     git checkout master
     git merge $BRANCH
     git push origin master

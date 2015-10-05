@@ -2,7 +2,7 @@
 
 if [ -d .git ]; then
     echo "WIP commit"
-    git commit -a -m 'wip'
+    git commit -a -m 'WIP'
     BRANCH=$(git rev-parse --abbrev-ref HEAD)
     echo "currently on "$BRANCH
     git checkout master

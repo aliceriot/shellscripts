@@ -1,3 +1,3 @@
 #!/bin/bash
 
-feh --randomize --bg-max /home/alice/images/backgrounds/*
+feh --bg-max /home/alice/Pictures/parkspins.jpg

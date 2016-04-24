@@ -1,4 +1,4 @@
 #!/bin/zsh
 
 source ~/.zshrc
-floating_gnome_term
+floating_xfce4_term

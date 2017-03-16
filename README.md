@@ -1,6 +1,6 @@
-#Shell scripts 
+# Shell scripts 
 
-##some small scripts it might be handy to have on multiple machines:
+## some small scripts it might be handy to have on multiple machines:
 
 Note: this folder (~/Code/shellscripts) is added to $PATH in my .bashrc
 
